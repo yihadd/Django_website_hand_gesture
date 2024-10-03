@@ -14,7 +14,7 @@
 
   
 ## Step to Do the Project:
-follow the link : here
+follow the link : [here](https://band-prose-3c3.notion.site/HAND-GESTURE-RECOGNITION-WEB-APPLICATION-1145f5ecd9c38041980efa379c9bec32?pvs=4)
 
 
 
