@@ -1,5 +1,5 @@
 # Hand Gesture Recognition Web Application
-![Uploading web.jpg…]()
+![web](https://github.com/user-attachments/assets/fc24f8d4-7b2c-4111-8581-aa2ed4128cd8)
  This project is a simple web application that uses MediaPipe and OpenCV to recognize hand gestures (like "like," "dislike," left hand, right hand). The application features buttons to start and stop video streaming and displays the detected gesture on a live video feed.
 
 ## Features
