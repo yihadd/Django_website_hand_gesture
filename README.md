@@ -11,15 +11,10 @@
 - Django
 - Opencv
 - Mediapipe
-  
-To install Opencv and Mediapipe, run the following command:
-pip install opencv-python mediapipe
 
+  
 ## Step to Do the Project:
-### Step 1: Set up django project
-1. creaet a new django project
-django-admin startproject hand_gesture_project
-cd hand_gesture_project
+follow the link : here
 
 
 
